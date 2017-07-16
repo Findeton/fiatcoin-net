@@ -89,7 +89,7 @@ h1, h2 {
     padding-left:0;
     margin-right:auto;
     margin-left:auto;
-    background-image: linear-gradient(35deg, rgb(0, 153, 206), rgb(56, 96, 169));
+    background-image: linear-gradient(35deg, rgb(153, 197, 255), rgb(0, 66, 153));
 }
 
 input[type=email] {
