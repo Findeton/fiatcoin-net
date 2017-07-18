@@ -2,9 +2,7 @@
   <div class="hello container-fluid" >
     <div class="space-out">
     </div>
-      <h1 class="center-text">
-      Fiatcoin
-      </h1>
+      <img src="../assets/fiatcoin.png">
       <h2 class="center-text">
       From the blockchain to your hand
       </h2>
@@ -71,6 +69,7 @@ mc_embed_signup
   clear:left;
   font:14px Helvetica,Arial,sans-serif; 
 }
+
 h1, h2 {
   font-weight: normal;
 }
